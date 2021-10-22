@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @martinalbrnz
-- 👀 I’m interested in Web development and Mobile
-- 🌱 I’m currently learning Dart & Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
 <!---
