@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinalbrnz
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node Js
 - 📫 How to reach me ...
 
 <!---
