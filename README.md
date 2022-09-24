@@ -1,16 +1,21 @@
-# 👋 Hi, I’m @martinalbrnz
-I’m self taught, interested on AI/ML and how to implement it with Javascript and Typescript on Web development.
+<h1 align="center"> 👋 Hello! I'm Martín </h1>
 
-My current stack is MERN and Tensorflow but I'm willing to learn new things!
+<p align="center"> Self taught developer, interested on Web and Mobile development. </p>
 
-Also, I have developed some small apps with Dart & Flutter!
+- 🔭 Currently working as a Front end developer with Angular 13.
 
-Currently working on my portfolio.
+- 🌱 Interested in learning Go and expanding my Js/Ts and Dart Knowledge. I'm always willing to learn new things!
 
-You can contact me on [Twitter](https://twitter.com/martin_albrnz) or [Linkedin](https://www.linkedin.com/in/martinalbrnz/)
+- 💬 My current stack is Javascript based! Including React, Angular, Node Js and both SQL and NoSQL databases.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinalbrnz&layout=compact&hide=html&theme=dark)](https://github.com/martinalbrnz/github-readme-stats)
+- 💪 Looking to colaborate on Web or Cross Platform projects!
 
+- ✨ Fun fact: I have a lot of cats 😺😻😸😼.
+
+Contact me on [Twitter](https://twitter.com/martin_albrnz) or [Linkedin](https://www.linkedin.com/in/martinalbrnz/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalbrnz&layout=compact&theme=dark&langs_count=6">
+</img>
 
 <!---
 martinalbrnz/martinalbrnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
