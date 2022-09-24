@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello! I'm Martín </h1>
 
-<p align="center"> Self taught developer, interested on Web and Mobile development. </p>
+<p align="center"> Self taught web developer. </p>
 
 - 🔭 Currently working as a Front end developer with Angular 13.
 
