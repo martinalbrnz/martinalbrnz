@@ -14,8 +14,10 @@
 
 Contact me on [Twitter](https://twitter.com/martin_albrnz) or [Linkedin](https://www.linkedin.com/in/martinalbrnz/)
 
+<!---
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalbrnz&layout=compact&theme=dark&langs_count=6">
 </img>
+--->
 
 <!---
 martinalbrnz/martinalbrnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
