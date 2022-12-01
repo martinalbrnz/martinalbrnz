@@ -2,7 +2,7 @@
 
 <p align="center"> Self taught web developer. </p>
 
-- 🔭 Currently working as a Front end developer with Angular 13.
+- 🔭 Currently working as a Front end developer with Angular!
 
 - 🌱 Interested in learning Go and expanding my Js/Ts and Dart Knowledge. I'm always willing to learn new things!
 
