@@ -1,8 +1,6 @@
 <h1 align="center"> 👋 Hello! I'm Martín </h1>
 
-<p align="center"> Self taught web developer. </p>
-
-- 🔭 Currently working as a Front end developer with Angular!
+- 🔭 Currently working as a Full stack developer!
 
 - 🌱 Interested in learning Go and expanding my Js/Ts and Dart Knowledge. I'm always willing to learn new things!
 
